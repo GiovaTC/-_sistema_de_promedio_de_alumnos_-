@@ -195,7 +195,7 @@ public class Ventana extends JFrame {
 }
 
 🧩 6. Clase Principal
-public class Main {
+public class Ventana {
 
     public static void main(String[] args) {
         javax.swing.SwingUtilities.invokeLater(() -> {
