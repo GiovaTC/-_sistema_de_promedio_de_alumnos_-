@@ -13,4 +13,4 @@ public class Alumno {
     public int getId() { return id; }
     public String getNombre() { return nombre; }
     public double getPromedio() { return promedio; }
-}   
+}
