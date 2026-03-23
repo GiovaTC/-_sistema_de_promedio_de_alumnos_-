@@ -1,7 +1,9 @@
 # -_sistema_de_promedio_de_alumnos_- :.
 📊 Sistema de Promedio de Alumnos:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ce3501b-6120-472c-a00b-9e66831c269d" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ce3501b-6120-472c-a00b-9e66831c269d" />    
+
+<img width="2548" height="1075" alt="image" src="https://github.com/user-attachments/assets/28d7f970-3de8-4ceb-9a39-8da3d4bcbc3f" />        
 
 ```
 Java (Swing + IntelliJ) + Oracle 19c
