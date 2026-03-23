@@ -66,4 +66,11 @@ public class Ventana extends JFrame {
 
         worker.execute();
     }
+    
+// main - metodo principal .
+    public static void main(String[] args) {
+        javax.swing.SwingUtilities.invokeLater(() -> {
+            new Ventana().setVisible(true);
+        });
+    }
 }
